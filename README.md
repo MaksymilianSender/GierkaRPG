@@ -1,0 +1,2 @@
+# GierkaRPG
+gram w gre
